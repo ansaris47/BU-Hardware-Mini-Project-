@@ -29,8 +29,7 @@ around 8 minutes so to get the 15+ minutes of data we changed it to 220 cycles.
 Plots/Data
 
 Figure 1: Data when the Raspberry Pi was placed in the middle of the room
-test1middle.png
-
+https://github.com/ansaris47/BU-Hardware-Mini-Project-/blob/beaf2154dba408c3e115497a3e69143349221d5e/test1middle.png
 Figure 2: Data when the Raspberry Pi was placed next to the window
 
 
