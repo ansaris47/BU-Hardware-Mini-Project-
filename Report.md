@@ -31,10 +31,10 @@ Plots/Data
 Figure 1: Data when the Raspberry Pi was placed in the middle of the room
 
 
-
-
-
 Figure 2: Data when the Raspberry Pi was placed next to the window
+
+
+
 
 We ran the wifi_scan.py to create the JSON file but since we only specified 100 cycles it only ran for around 8 minutes and didn’t collect much data. As a 
 result, we increased the cycles to 220 and moved our Raspberry Pi closer to the window so that we can pick up data from passing cars. This yielded much better 
