@@ -30,6 +30,9 @@ Plots/Data
 
 Figure 1: Data when the Raspberry Pi was placed in the middle of the room
 https://github.com/ansaris47/BU-Hardware-Mini-Project-/blob/beaf2154dba408c3e115497a3e69143349221d5e/test1middle.png
+
+
+
 Figure 2: Data when the Raspberry Pi was placed next to the window
 
 
